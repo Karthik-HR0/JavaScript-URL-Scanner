@@ -1,0 +1,47 @@
+{
+  "manifest_version": 3,
+  "name": "JavaScript URL Scanner",
+  "version": "1.0",
+  "description": "Scans webpages for JavaScript URLs and stores them automatically.",
+  "author": {
+    "name": "Karthik HR",
+    "email": "karthikhr1623@gmail.com"
+  },
+  "homepage_url": "https://github.com/Karthik-HR0/JavaScript-URL-Scanner",
+  "permissions": [
+    "tabs",
+    "scripting",
+    "storage",
+    "activeTab",
+    "notifications"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "options_ui": {
+    "page": "settings.html",
+    "open_in_tab": true
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["images/*.png"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Settings</title>
+  <link rel="stylesheet" href="settings.css">
+  <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <canvas id="particle-canvas"></canvas>
+  <div class="header">
+    <h3>Settings</h3>
+    <p class="author">/~ <a href="https://github.com/Karthik-HR0" target="_blank">Karthik HR</a></p>
+  </div>
+  <div class="settings-group">
+    <label class="switch" title="Auto Refresh">
+      <input type="checkbox" id="auto-refresh-toggle">
+      <span class="slider"></span>
+    </label>
+    <span>Enable Auto-Refresh</span>
+  </div>
+  <div id="mods-group"></div>
+  <p id="message" style="display: none;">Settings saved!</p>
+ <footer>
+    <a href="https://github.com/Karthik-HR0" target="_blank" title="GitHub">
+      <img src="https://img.icons8.com/material-outlined/20/808080/github.png" alt="GitHub">
+    </a>
+    <a href="https://x.com/Karthik__hr" target="_blank" title="X">
+      <img src="https://img.icons8.com/material-outlined/20/808080/twitter.png" alt="X">
+      
+    </a>
+    
+    <a href="https://instagram.com/karthik__hr" target="_blank" title="Instagram">
+      <img src="https://img.icons8.com/material-outlined/20/808080/instagram.png" alt="instagram">
+  </footer>
+
+  <script src="settings.js"></script>
+  <script src="mod.js"></script>
+</body>
+</html>
