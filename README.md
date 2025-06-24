@@ -95,6 +95,21 @@
 
 ---
 
+<img src="https://github.com/Karthik-HR0/JavaScript-URL-Scanner/blob/main/images/num-of-urls.png" alt="shows number of urls in the icon bar" width="30%">
+Badge showing URL count
+
+---
+
+<img src="https://github.com/Karthik-HR0/JavaScript-URL-Scanner/blob/main/images/setting.png" alt="settings" width="30%">
+Settings page
+
+---
+
+  <img src="https://github.com/Karthik-HR0/JavaScript-URL-Scanner/blob/main/images/auto-refresh.png" alt="auto scan " width="30%">
+Auto-refresh in action
+
+---
+
 ## **`License`**  
 
 This project is licensed under the Mozilla Public License Version 2.0 - see the [`LICENSE`](https://github.com/Karthik-HR0/JavaScript-URL-Scanner/blob/main/LICENSE) file for details.
