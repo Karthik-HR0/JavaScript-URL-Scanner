@@ -23,6 +23,19 @@
 </div>
 </div>  
 
+<p align="center">
+  <a href="https://x.com/Karthik__hr" title="Follow me on X/Twitter">
+    <img src="https://img.shields.io/badge/Karthik__hr-4a6572?style=for-the-badge&logo=X&logoColor=D1D5DB&color=0d1117" alt="X/Twitter" />
+  </a>
+  <a href="https://www.instagram.com/Karthik__hr" target="_blank" title="Follow me on Instagram">
+    <img src="https://img.shields.io/badge/Karthik__hr-4a6572?style=for-the-badge&logo=instagram&logoColor=D1D5DB&color=0d1117" alt="Instagram" />
+  </a>
+  <a href="https://github.com/Karthik-HR0" title="Check out my GitHub">
+    <img src="https://img.shields.io/badge/Karthik--HR0-4a6572?style=for-the-badge&logo=github&logoColor=D1D5DB&color=0d1117" alt="GitHub" />
+  </a>
+
+</p>
+
 ---
 
 ## **`Features`**  
